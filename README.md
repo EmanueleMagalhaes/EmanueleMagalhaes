@@ -1,6 +1,6 @@
 - 👋 Oi, Sou @EmanueleMagalhaes
-- 👀 Tenho interesse em programação, inclusive busco trabalho voluntário nessa área.
-- 🌱 Estou estudando FrontEnd, Javascript e Python
+-  Tenho interesse em programação, inclusive busco trabalho voluntário nessa área.
+-  Estou estudando FrontEnd, Javascript e Python
 - meu email é manu.asn@gmail.com
 
 <!---
