@@ -1,16 +1,27 @@
-Olá, me chamo Emanuele Magalhães 👋
+# **Olá, me chamo Emanuele Magalhães! 👋**  
+💻 **Desenvolvedora Backend | Estudante de Java**  
 
-🤷‍♂️ Sobre mim:
+---
 
-Sou natural de Rio de Janeiro, Capital, moro em Joinville/SC a 3 anos, tenho um filho 16 anos, Sou casada, gosto de ler, assistir a bons filmes e viajar.
+## **🙋‍♀️ Sobre mim**  
+- 🌍 Sou natural do **Rio de Janeiro/RJ** e moro em **Joinville/SC** há 3 anos.  
+- 👩‍👦 Mãe de um adolescente de 16 anos e casada.  
+- 📚 Apaixonada por **tecnologia, leitura, bons filmes e viagens**.  
 
-🔭 Atualmente sou Instrutora de Programação para crianças, na empresa SuperGeeks.
-🌱 Faço o curso de Desenvolvedor Java -  Senai
-Tenho conhecimento em FrontEnd, Javascript e Python
+---
 
-📫 manu.asn@gmail.com
-📞 (21)98659-1511
+## **🚀 O que estou fazendo no momento?**  
+- 🔭 Instrutora de **Programação para crianças** na **SuperGeeks**.  
+- 📖 Estudando **Desenvolvimento Java** no **SENAI**.  
+- 💡 Aprimorando conhecimentos em **Backend**, além de conhecimento em **FrontEnd, JavaScript e Python**.  
 
+---
+
+## **📬 Contato**  
+📧 **E-mail:** [manu.asn@gmail.com](mailto:manu.asn@gmail.com)  
+📞 **WhatsApp:** [(21) 98659-1511](tel:+5521986591511)  
+🔗 **LinkedIn:** [linkedin.com/in/seu-usuario](#)   
+📂 **Portfólio:** [seuportfólio.com](#) 
 
 <!---
 EmanueleMagalhaes/EmanueleMagalhaes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
